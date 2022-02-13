@@ -1,6 +1,14 @@
 ---
-title: "index"
+title: "Index Page for Our Collaborative Website"
 author: "Karianne Kapfer"
-date: "2/13/2022"
 output: html_document
 ---
+
+
+My name is Karianne Kapfer (KK743 on the right ) and for this project I am working with Marissa Garcia (MG2377 on the left )
+
+<center>
+
+![Marissa and I with the L.L Bean Boot Car](C:/Users/Karianne Kapfer/Desktop/GitHub/assignment-3-kk743/cuties.jpg)
+
+</center>
