@@ -1,0 +1,6 @@
+---
+title: "Karianne.Rmd"
+output:
+  html_document:
+    df_print: paged
+---
