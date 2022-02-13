@@ -5,7 +5,7 @@ output: html_document
 ---
 
 
-My name is Karianne Kapfer (KK743 on the right ) and for this project I am working with Marissa Garcia (MG2377 on the left )
+My name is Karianne Kapfer (KK743 on the right) and for this project I am working with Marissa Garcia (MG2377 on the left)
 
 <center>
 
