@@ -7,8 +7,6 @@ navbar:
       href: Karianne.html
     - text: "Marissa"
       href: marissa.html  
-output_dir: "."
-output:
   html_document:
     theme: cerulean
     highlight: textmate
