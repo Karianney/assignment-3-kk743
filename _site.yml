@@ -1,0 +1,16 @@
+output_dir: "."
+navbar:
+  left:
+  - text: "Home"
+href: index.html
+- text: "Karianne"
+href: Karianne.html
+- text: "Marissa"
+href: marissa.html
+output_dir: "."
+output:
+  html_document:
+    theme: paper
+    highlight: textmate
+    toc: true 
+    toc_float: true 
